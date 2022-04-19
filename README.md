@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Stefan!
-![](https://kinsta.com/wp-content/uploads/2020/06/banner-sizes-1024x512.jpg)
+![](https://venngage-wordpress.s3.amazonaws.com/uploads/2018/10/12.-Industry-leader-facebook-banner.png)
 
 A graduate student with deep passion for Computer Vision and UI/UX Design.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
