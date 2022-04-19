@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Stefan R. Roman</h1>
-<h3 align="center">A graduate student with deep passion for Computer Vision and UI/UX Design.</h3>
+### Hi there 👋, my name is Stefan!
+![](https://kinsta.com/wp-content/uploads/2020/06/banner-sizes-1024x512.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rollmayn" alt="rollmayn" /></a> </p>
+A graduate student with deep passion for Computer Vision and UI/UX Design.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
